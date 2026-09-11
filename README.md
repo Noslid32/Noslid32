@@ -6,7 +6,7 @@ Dilson Koka'ib' Morales Tajiboy
 > status
 Estudiante de Ingeniería en Sistemas — Universidad Galileo
 > class
-Maya K'iche' | Guatemala 🇬🇹
+ Guatemala 🇬🇹
 ```
 
 - 🎓 Ingeniería en Sistemas — 3er año, Universidad Galileo
