@@ -34,3 +34,4 @@ Maya K'iche' | Guatemala 🇬🇹
 ---
 
 > "Nivel actual: Junior Dev. Siguiente boss: primer proyecto en producción." 🎮
+# Noslid32
