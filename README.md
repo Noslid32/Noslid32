@@ -1,3 +1,5 @@
+![banner](./assets/banner.jpg)
+
 ### Hola, soy Dilson 👋 `Noslid32`
 
 ```
@@ -15,7 +17,7 @@ Guatemala 🇬🇹
 -  Me interesa: desarrollo de software, bases de datos y resolver problemas como quien limpia un mapa
 -  Idiomas: Español, Inglés (básico), Maya K'iche' (comprensión)
 -  Contáctame: moralestajis23@gmail.com
--  LinkedIn : https://www.linkedin.com/in/dilson-koka-ib-morales-tajiboy-010723349/ 
+-  LinkedIn: [dilson-koka-ib-morales-tajiboy](https://www.linkedin.com/in/dilson-koka-ib-morales-tajiboy-010723349/)
 
 ---
 
@@ -27,7 +29,5 @@ Guatemala 🇬🇹
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-
-
 
 > "Nivel actual: Junior Dev. Siguiente boss: primer proyecto en producción." 🎮
