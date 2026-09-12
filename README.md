@@ -9,12 +9,12 @@ Guatemala 🇬🇹
 
 🔗 [Noslid32 — Portafolio](https://personal-portfolio-six-mu-12.vercel.app/#contact)
 
-- 🎓 Ingeniería en Sistemas — 3er año, Universidad Galileo
-- 🕹️ Cuando no estoy compilando código, estoy grindeando en algún juego
-- 🌱 Aprendiendo: **Java** y **Python**
-- 🧩 Me interesa: desarrollo de software, bases de datos y resolver problemas como quien limpia un mapa
-- 🗣️ Idiomas: Español, Inglés (básico), Maya K'iche' (comprensión)
-- 📫 Contáctame: moralestajis23@gmail.com
+-  Ingeniería en Sistemas — 3er año, Universidad Galileo
+-  Cuando no estoy compilando código, estoy grindeando en algún juego
+-  Aprendiendo: **Java** y **Python**
+-  Me interesa: desarrollo de software, bases de datos y resolver problemas como quien limpia un mapa
+-  Idiomas: Español, Inglés (básico), Maya K'iche' (comprensión)
+-  Contáctame: moralestajis23@gmail.com
 
 ---
 
@@ -27,10 +27,6 @@ Guatemala 🇬🇹
 
 ---
 
-**GitHub Stats**
 
-![Noslid32's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noslid32&show_icons=true&theme=radical)
-
----
 
 > "Nivel actual: Junior Dev. Siguiente boss: primer proyecto en producción." 🎮
