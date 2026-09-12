@@ -1,4 +1,4 @@
-![banner]((https://github.com/Noslid32/Noslid32/blob/main/banner.jpg))
+![banner](./banner.jpg)
 
 ### Hola, soy Dilson 👋 `Noslid32`
 
