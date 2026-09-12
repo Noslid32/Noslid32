@@ -3,11 +3,11 @@
 ```
 > whoami
 Dilson Koka'ib' Morales Tajiboy
-> status
-Estudiante de Ingeniería en Sistemas — Universidad Galileo
 > class
- Guatemala 🇬🇹
+Guatemala 🇬🇹
 ```
+
+🔗 [Noslid32 — Portafolio](https://personal-portfolio-six-mu-12.vercel.app/#contact)
 
 - 🎓 Ingeniería en Sistemas — 3er año, Universidad Galileo
 - 🕹️ Cuando no estoy compilando código, estoy grindeando en algún juego
@@ -34,4 +34,3 @@ Estudiante de Ingeniería en Sistemas — Universidad Galileo
 ---
 
 > "Nivel actual: Junior Dev. Siguiente boss: primer proyecto en producción." 🎮
-# Noslid32
