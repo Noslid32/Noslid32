@@ -1,4 +1,4 @@
-![banner](./banner.jpg)
+<img src="./banner.jpg" alt="banner" width="100%" height="220" style="object-fit: cover; border-radius: 8px;" />
 
 ### Hola, soy Dilson 👋 `Noslid32`
 
