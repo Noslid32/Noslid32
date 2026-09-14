@@ -16,7 +16,7 @@ Guatemala 🇬🇹
 -  Aprendiendo: **Java** y **Python**
 -  Me interesa: desarrollo de software, bases de datos y resolver problemas como quien limpia un mapa
 -  Idiomas: Español, Inglés (básico), Maya K'iche' (comprensión)
--  Contáctame: moralestajis23@gmail.com
+-  Contáctame: dilson.morales@galileo.edu
 -  LinkedIn: [dilson-koka-ib-morales-tajiboy](https://www.linkedin.com/in/dilson-koka-ib-morales-tajiboy-010723349/)
 
 ---
